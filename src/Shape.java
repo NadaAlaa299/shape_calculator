@@ -1,4 +1,4 @@
-public abstract class shape {
+public abstract class Shape {
     public abstract double cal_area();
     public abstract double cal_perimeter();
 

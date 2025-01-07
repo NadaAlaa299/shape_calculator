@@ -1,7 +1,7 @@
-public class circle extends shape{
+public class Circle extends Shape{
     private double radius;
 
-    public circle(double r){
+    public Circle(double r){
         this.radius = r;
     }
     @Override
